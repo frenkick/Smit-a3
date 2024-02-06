@@ -21,7 +21,6 @@ void main() {
       "Language": "Portuguese"
     }
   };
-
-  print('Capital: ${World['capitalCity']}');
-  print('Currency: ${World['currency']}');
+  print(World["Currency"]);
+  print(World["Capital City"]);
 }
