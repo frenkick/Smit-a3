@@ -1,5 +1,3 @@
-import 'dart:math';
-
 void main() {
   List l1 = [
     23,
